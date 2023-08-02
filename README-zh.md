@@ -1,4 +1,6 @@
 ## JBoost
+[English](https://github.com/EXCaster/JBoost/blob/main/README-zh.md)
+
 JBoost是一个致力于提升Java项目开发效率的开源项目。
 
 ### 项目目标
@@ -7,7 +9,7 @@ JBoost是一个致力于提升Java项目开发效率的开源项目。
 - 提供常用的Java工具类,加速开发工作
 - 降低Java项目的启动门槛,提高新人的开发效率
 - 基于社区反馈持续优化项目内容,促进Java生态的高效开发
-- 
+  
 ### 使用指南
 JBoost所有代码开源在Github上,可按需直接使用:
 - 复制已有的项目模板代码作为起点
