@@ -1,5 +1,5 @@
 ## JBoost
-[English](https://github.com/EXCaster/JBoost/blob/main/README-zh.md)
+[English](https://github.com/EXCaster/JBoost/blob/main/README.md)
 
 JBoost是一个致力于提升Java项目开发效率的开源项目。
 
